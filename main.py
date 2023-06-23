@@ -14,7 +14,7 @@ def main():
     filename = "inputs/input1.smt2"
     lines = file_test.readlines()
     # True per far andare il file txt, False per far andare  il file smt
-    txt_true_smt_false = False 
+    txt_true_smt_false = True 
 
     if txt_true_smt_false:
         print('*'*90)
